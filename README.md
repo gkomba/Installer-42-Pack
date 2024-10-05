@@ -7,8 +7,11 @@ Bem-vindo ao repositório oficial do 42 Pack! Este repositório contém os insta
 O 42 Pack é uma ferramenta poderosa que simplifica o processo de instalação e gerenciamento de aplicativos. Com uma interface intuitiva, ele permite que os usuários:
 
 __Instalem pacotes rapidamente com apenas alguns cliques.__
+
 __Gerenciem suas aplicações de forma eficiente, com a possibilidade de atualizar, desinstalar e reverter versões.__
+
 __Descubram novos aplicativos recomendados com base em suas preferências.__
+
 __Seja você um desenvolvedor, um entusiasta de tecnologia ou um usuário casual, o 42 Pack é a solução ideal para manter seu ambiente de software organizado e atualizado.__
 
 ## Instalação
