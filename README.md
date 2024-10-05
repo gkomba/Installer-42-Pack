@@ -1,6 +1,6 @@
 # 42 Pack
 
-Bem-vindo ao repositório oficial do 42 Pack! Este repositório contém os instaladores do nosso aplicativo, que funciona como um gerenciador de pacotes e instalador de aplicativos, facilitando a instalação e a gestão de softwares no seu sistema.
+Bem-vindo ao repositório oficial do __42 Pack__! Este repositório contém os instaladores do nosso aplicativo, que funciona como um gerenciador de pacotes e instalador de aplicativos, facilitando a instalação e a gestão de softwares no seu sistema.
 
 ## Sobre o 42 Pack
 O 42 Pack é uma ferramenta poderosa que simplifica o processo de instalação e gerenciamento de aplicativos criados exclusivamente dentro da comunidade 42 Luanda. Com uma interface intuitiva, ele permite que os usuários:
