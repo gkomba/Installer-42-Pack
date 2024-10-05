@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial do 42 Pack! Este repositório contém os insta
 O 42 Pack é uma ferramenta poderosa que simplifica o processo de instalação e gerenciamento de aplicativos criados exclusivamente dentro da comunidade 42 Luanda. Com uma interface intuitiva, ele permite que os usuários:
 
 - __Instalem pacotes rapidamente__ com apenas alguns cliques.
-- 
+
 - __Gerenciem suas aplicações__ de forma eficiente, com a possibilidade de atualizar, desinstalar e reverter versões.
 
 - __Descubram novos aplicativos desenvolvidos pela comunidade__, sempre alinhados com as necessidades dos usuários.
