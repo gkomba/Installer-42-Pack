@@ -41,4 +41,4 @@ Contribuições são muito bem-vindas!
 
 Se você tem sugestões de melhorias, deseja relatar um problema ou quer contribuir com novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request para o repositorio de desenvolvimento[por link].
 
-## Inicie o aplicativo e aproveite!
+# Inicie o aplicativo e aproveite!
