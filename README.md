@@ -28,12 +28,12 @@ git clone https://github.com/gkomba/Installer-42-Pack.git
 
 ## Para desisntalar:
 ```bash
-./uninstallpack
+uninstallpack
 ```
 
 ## Para Actualizar
 ```bash
-./updatepack
+updatepack
 ```
 
 ## Contribuições
