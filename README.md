@@ -1,6 +1,6 @@
 # 42 Pack
 
-![Image of 42Pack](https://raw.githubusercontent.com/gkomba/apps/main/initial_apps/Naver.png)
+![Image of 42Pack](https://raw.githubusercontent.com/gkomba/apps/main/initial_apps/42Pack.png)
 
 
 Bem-vindo ao repositório oficial do __42 Pack__! Este repositório contém os instaladores do nosso aplicativo, que funciona como um gerenciador de pacotes e instalador de aplicativos, facilitando a instalação e a gestão de softwares no seu sistema.
