@@ -1,5 +1,8 @@
 # 42 Pack
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 Bem-vindo ao repositório oficial do __42 Pack__! Este repositório contém os instaladores do nosso aplicativo, que funciona como um gerenciador de pacotes e instalador de aplicativos, facilitando a instalação e a gestão de softwares no seu sistema.
 
 ## Sobre o 42 Pack
